@@ -64,7 +64,7 @@ example-bot/
 │       └── 📄 function.js      # Function loader
 ├── 📄 config.js                # Bot configuration
 ├── 📄 main.js                  # Entry point
-├── 📄 start.bat               # Windows startup script
+├── 📄 start.bat                # Windows startup script
 └── 📄 .env                     # Environment variables
 ```
 
